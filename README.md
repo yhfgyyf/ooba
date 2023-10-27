@@ -5,6 +5,11 @@ Ensure you have installed Open-interpreter first.
 <br>
 
 I have made a few (experimental) fixes Windows:
+
+https://github.com/KillianLucas/ooba/pull/8
+https://github.com/KillianLucas/ooba/pull/6
+https://github.com/KillianLucas/ooba/pull/7
+
 - After installing Open-interpreter
 ```shell
 pip install open-interpreter
