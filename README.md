@@ -23,7 +23,3 @@ You can remove changes by running
 ```shell 
 pip install ooba --force-reinstall
 ```
-
-```shell
-pip install git+https://github.com/Notnaton/ooba.git@windows
-```
