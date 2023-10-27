@@ -17,7 +17,7 @@ pip install git+https://github.com/Notnaton/ooba.git@windows --force-reinstall
 This will download and install some patches I have made for Ooba.
 You can check the code here: https://github.com/Notnaton/ooba/tree/windows
 This is experimental and will be updated at random times. 
-Should you have a problem please run: `interpreter --local --debug` and make an issue here: https://github.com/Notnaton/ooba/issues
+Should you have a problem please run: `interpreter --local --debug` 
 
 You can remove changes by running 
 ```shell 
