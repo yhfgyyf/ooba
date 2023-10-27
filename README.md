@@ -10,7 +10,7 @@ I have made a few (experimental) fixes Windows:
 This will download and install some patches I have made for Ooba. 
 You can check the code here: https://github.com/Notnaton/ooba/tree/windows
 This is experimental and will be updated at random times. 
-Should you have a problem please run: `interpreter --local --debug` and make an issue in the discord and tag @notnaton 
+Should you have a problem please run: `interpreter --local --debug` and make an issue here: https://github.com/Notnaton/ooba/issues
 
 You can remove changes by running `pip install ooba --force-reinstall`
 
