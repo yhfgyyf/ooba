@@ -24,6 +24,7 @@ class llm:
     def __init__(self, path, cpu=False, verbose=False):
 
         print("Initializing server, please wait...")
+        print("Experimental: https://github.com/Notnaton/ooba/tree/windows")
 
         try:
             self.path = path
