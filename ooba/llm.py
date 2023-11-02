@@ -72,6 +72,9 @@ class llm:
                 "--api"
             ]
 
+            if start_script_filename == "start_windows.bat" and ("gguf" in model_name or "ggml" in model_name):
+                cmd.extend(["--n-gpu-layers", "128"])
+
             if self.gpu_choice == "N":
                 cmd.append("--cpu")
             if self.verbose:
